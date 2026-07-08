@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Swarnendu 👋
 
-<!--
-**mswarnendu/mswarnendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in quantitative research, mathematical modeling, and machine learning.
 
-Here are some ideas to get you started:
+## Interests
+- Quantitative finance
+- Statistical modeling
+- Machine learning
+- Stochastic processes
+- Computational methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Projects
+
+### 📊 Quantitative Research
+- **Oil Feature Importance Research**
+  - Exploring feature importance methods for oil price modeling using machine learning and data analysis.
+
+### 📈 Quantitative Finance
+- **Black-Scholes Model**
+  - Implemented the Black-Scholes option pricing model to explore mathematical finance concepts and stochastic modeling.
+
+- **SpaceX IPO Analysis**
+  - Conducted a quantitative analysis exploring potential valuation scenarios and financial modeling approaches.
+
+## Technologies
+- Python
+- C++
+- PyTorch
+- NumPy
+- Pandas
+- Scikit-learn
+- Git
+
+## Featured Projects
+- Oil Feature Importance Research
+- Black-Scholes Model
+- SpaceX IPO Analysis
