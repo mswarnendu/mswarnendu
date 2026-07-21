@@ -1,48 +1,48 @@
 # Hi, I'm Swarnendu 👋
 
-I'm a student exploring quantitative research, mathematical modeling, computational methods, and machine learning. I enjoy building projects that combine mathematics, finance, and software engineering.
+I'm a student exploring quantitative research, mathematical modeling, computational methods, machine learning, and software engineering. I enjoy building projects that combine mathematics, AI, and practical applications.
 
 ## Interests
 
-* Quantitative finance
-* Mathematical modeling
-* Machine learning
-* Stochastic processes
-* Numerical methods
-* Computational mathematics
+- Quantitative finance
+- Mathematical modeling
+- Machine learning
+- Software engineering
+- Computational mathematics
+- Artificial intelligence
 
 ## Research & Projects
 
 ### 📊 Quantitative Research
 
-* **Oil Feature Importance Research**
+**Oil Feature Importance Research**
 
-  * Investigating machine learning-based feature importance methods for analyzing factors influencing oil price movements through data-driven modeling.
+- Investigating machine learning-based feature importance methods for analyzing factors influencing oil price movements through data-driven modeling.
 
-### 📈 Quantitative Finance
+### ❤️ AI for Healthcare
 
-* **Black-Scholes Model**
+**HeartPal**
 
-  * Implemented the Black-Scholes option pricing model to explore derivatives pricing, volatility, and mathematical finance concepts.
+- Developed an AI-powered cardiovascular risk assessment application that uses machine learning to estimate heart disease risk, visualize health trends, and promote heart health awareness through an interactive dashboard.
 
-### 🔢 Computational Mathematics
+### 🤖 Personal AI Assistant
 
-* **Ramanujan-Sato Series**
+**D4C**
 
-  * Developed a C++ implementation of the Ramanujan-Sato infinite series for high-precision π computation, exploring convergence and numerical methods.
+- Built a voice-controlled personal AI assistant capable of speech recognition, local language model interaction, workflow automation, task management, application launching, and productivity assistance.
 
 ## Technologies
 
-* Python
-* C++
-* Tensorflow
-* NumPy
-* Pandas
-* Scikit-learn
-* Git
+- Python
+- C++
+- TensorFlow
+- NumPy
+- Pandas
+- Scikit-learn
+- Git
 
 ## Featured Projects
 
-* Oil Feature Importance Research
-* Ramanujan-Sato Series
-* Black-Scholes Model
+- Oil Feature Importance Research
+- HeartPal
+- D4C
